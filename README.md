@@ -31,6 +31,10 @@ dart run xxx.dart
 
 就是一个简易的待办清单,用法在执行程序后可见。
 
+### GuShi: 今日诗词
+
+调用[今日诗词API](https://v1.jinrishici.com/all.txt)的古诗类一言。
+
 ## 许可证
 
 本项目采用 MIT 许可证。查阅 [LICENSE](LICENSE) 文件了解更多详情。
