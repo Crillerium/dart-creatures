@@ -31,6 +31,15 @@ dart run xxx.dart
 
 调用[今日诗词API](https://v1.jinrishici.com/all.txt)的古诗类一言。
 
+### TGBot: 电报机器人
+
+调用Telegram API的机器人,可以发送消息(需先在config.json中配置相关信息)
+
+用法示例:
+```
+dart run tgbot.dart '第一行文本' '第二行文本' '...'
+```
+
 ## 许可证
 
 本项目采用 MIT 许可证。查阅 [LICENSE](LICENSE) 文件了解更多详情。
