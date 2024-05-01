@@ -1,14 +1,14 @@
-# Dart-Creature
+# Dart-Creatures
 
-Dart-Creature 是一个由 Dart 语言编写的造物集合。这个项目可以帮助你了解 Dart 语言的特性，并展示了 Dart 的灵活性。
+Dart-Creatures 是一个由 Dart 语言编写的造物集合。这个项目可以帮助你了解 Dart 语言的特性，并展示了 Dart 的灵活性。
 
 ## 安装
 
-要使用 Dart-Creature，你需要首先安装 Dart 支持。你可以从 [Dart 官网](https://dart.dev/get-dart) 获取安装指南。
+要使用 Dart-Creatures，你需要首先安装 Dart 支持。你可以从 [Dart 官网](https://dart.dev/get-dart) 获取安装指南。
 
 ## 使用
 
-安装 Dart 支持后，你可以按照以下步骤使用 Dart-Creature：
+安装 Dart 支持后，你可以按照以下步骤使用 Dart-Creatures：
 
 1. 从 Github 下载项目源代码。
 2. 打开命令行界面，并进入项目目录。
